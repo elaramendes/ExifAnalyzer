@@ -1,6 +1,5 @@
 # ExifAnalyzer
 
-```markdown
 This project is an attempt to replicate an application that analyzes EXIF metadata in images, originally developed in Python, now implemented in C#.
 
 ## Objective
@@ -43,6 +42,6 @@ Contributions are welcome! Feel free to submit a Pull Request or open an Issue.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 Feel free to modify any sections to better fit your project's details!
